@@ -2,6 +2,10 @@
 notebook that reads a folder with pdfs copy the content in a .txt. It allows scanned documents
 The most challenging part is installing all the dependencies.
 
+--- Create a virtual enviroment
+
+--- Install requirements en the virtual enviroment
+
 --- Activate a virtual enviroment
 
 --- Install scoop to install poppler
